@@ -1,0 +1,46 @@
+*{
+    align-items: center;
+    text-align: center;
+}
+body{
+    margin-top: 5rem;
+    margin-left: 32rem;
+    margin-right: 32rem;
+    background-color: whitesmoke;
+}
+.cal{
+    background-color: black;
+}
+#display{
+    font-size: x-large;
+    text-align: left;
+}
+.head input{
+    height: 4rem;
+    width: 95%;
+    margin-bottom: 2rem;
+    border-radius: 1rem;
+    background-color:aliceblue;
+    margin-top: 1rem;
+}
+.btn button{
+    width: 6.9rem;
+    height: 5.9rem;
+    font-size:xx-large;
+    border-radius: 0.5rem;
+}
+.btn button:hover{
+    opacity: 80%;
+}
+#on,#off,#c,#ca{
+    background-color: aqua;
+}
+#pl,#mi,#mu,#di{
+    background-color:cornsilk;
+}
+.cal{
+    border-radius: 1rem;
+}
+#di{
+    margin-bottom: 0.5rem;
+}
